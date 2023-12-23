@@ -1,0 +1,15 @@
+{
+  "direction": "rtl",
+  "loginTitle": "تسجيل الدخول",
+  "emailLabel": "البريد الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "btnTitle": "تسجيل",
+  "placeholdersEmail": "أدخل البريد الإليكتروني",
+  "errorMessagesEmailRequired": "البريد الإلكتروني مطلوب.",
+  "errorMessagesEmailPattern": "يرجى إدخال بريد إلكتروني صحيح",
+  "placeholdersPassword": "يرجى إدخال كلمة المرور",
+  "errorminPasswordLength": "يجب أن تكون كلمة المرور على الأقل 8 أحرف",
+  "errormaxPasswordLength": "يجب أن تكون كلمة المرور لا تزيد عن 20 حرفًا",
+  "passwordRequired": "كلمة المرور مطلوبة.",
+  "loginFailed": "خطأ في تسجيل الدخول، يرجى التحقق من البريد الإلكتروني وكلمة المرور."
+}

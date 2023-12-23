@@ -1,0 +1,15 @@
+{
+  "direction": "ltr",
+  "loginTitle": "Login",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "btnTitle": "Login",
+  "placeholdersEmail": "Please Enter Your Email",
+  "errorMessagesEmailRequired": "Email is required.",
+  "errorMessagesEmailPattern": "Please enter a valid email",
+  "placeholdersPassword": "Please enter your password",
+  "errorminPasswordLength": "Password must be at least 8 characters",
+  "errormaxPasswordLength": "Password must be not exceed 20 characters",
+  "passwordRequired": "Password is required.",
+  "loginFailed": "Login failed, please check your email and password."
+}
