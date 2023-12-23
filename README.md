@@ -2,6 +2,8 @@ Project Title: Member Management System
 
 Purpose of the Project: The project is crafted to deliver seamless and efficient member management, combining simplicity with intricate interactions. Admin users, appointed by the website, hold the authority to add, edit, delete, and view comprehensive details of all members.
 
+Live : https://memberhub-manager.vercel.app/
+
 Installation:
 Clone the project from GitHub.
 Execute npm i to effortlessly install all the necessary libraries.
